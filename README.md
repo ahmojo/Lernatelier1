@@ -5,3 +5,6 @@
 1. Als erstes möchte ich meine Hausaufgaben beim Modul 319 fertig machen.
 2. Danach möchte ich bei Modul 319 2 oder 3 Lektionen an den Aufträgen weitermachen, da ich da nicht so weit bin wie bei 431.
 3. Den Rest würde ich damit verbringen bei 431 weiterzumachen.
+
+## Reflexion
+Ich habe all meine Ziele erreicht
