@@ -8,3 +8,13 @@
 
 ## Reflexion
 Ich habe all meine Ziele erreicht
+
+## 23.08.2024
+
+1. LA 1706 Fertig machen
+2. Mindestens 2 weitere LA's machen bei Modul 431
+3. Rest von der Zeit mit Modul 319 verbringen
+
+## Reflexion
+
+Ausstehend
