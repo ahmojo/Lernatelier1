@@ -11,6 +11,7 @@
 1. Gemacht und abgegeben
 2. LA 1707 und LA 1708
 3. Ich habe mir verschiedene Präsentationen auf Moodle angekuckt und daraufhin 2 kleine Sachen programmiert 1. Menschen Jahre in Hunde Jahre Umrechner und 2. Kilogramm in LBS Umrechner
+4. Visual Studios geupdatet
 
 ## 16.08.2024
 
