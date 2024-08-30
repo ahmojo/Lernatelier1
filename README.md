@@ -6,6 +6,11 @@
 2. Einen Taschenrechner programmieren
 3. Notenrechner programmieren (5 / Gesamt Punkte mal Punkte + 1)
 
+## Reflexion
+1. ✓
+2. Nicht ganz fertig
+3. ✓
+
 ## 23.08.2024
 
 1. LA 1706 Fertig machen
