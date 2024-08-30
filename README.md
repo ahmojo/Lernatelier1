@@ -1,5 +1,11 @@
 # Lernatelier
 
+## 30.08.2024
+
+1. In Modul 319 weitere Themen durchlesen und erlernen.
+2. Einen Taschenrechner programmieren
+3. Notenrechner programmieren (5 / Gesamt Punkte mal Punkte + 1)
+
 ## 23.08.2024
 
 1. LA 1706 Fertig machen
