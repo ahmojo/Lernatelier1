@@ -5,6 +5,10 @@
 1. An Modul 319 arbeiten
 2. Mindestens eine Aufgabe bei 431 machen 
 
+## Reflexion
+1. ✓
+2. ✓
+
 ## 30.08.2024
 
 1. In Modul 319 weitere Themen durchlesen und erlernen.
