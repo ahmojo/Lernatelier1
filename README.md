@@ -6,8 +6,8 @@
 2. 1-2 Expertenziele erledigen
 
 ## Reflexion
-1. 
-2. 
+1. ✓
+2. ✓
 
 ## 06.09.2024
 
