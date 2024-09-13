@@ -1,5 +1,14 @@
 # Lernatelier
 
+## 13.09.2024
+
+1. Stoff von Modul 319 repetieren
+2. 1-2 Expertenziele erledigen
+
+## Reflexion
+1. 
+2. 
+
 ## 06.09.2024
 
 1. An Modul 319 arbeiten
