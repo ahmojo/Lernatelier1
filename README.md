@@ -6,8 +6,8 @@
 2. An den Expertenzielen weiter arbeiten
 
 ## Reflexion
-1. 
-2. 
+1. ✓
+2. × Habe die ganze Zeit an 319 gearbeitet
 
 ## 13.09.2024
 
