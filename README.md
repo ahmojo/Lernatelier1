@@ -2,8 +2,8 @@
 
 ## 18.10.2024
 
-1. Mahara Einrag für Modul 319 anfangen.
-2. Arrays, Funktionen und Programmier Übungen machen.
+1. Mahara Einrag für Modul 319 anfangen. 2 Lektionen
+2. Arrays, Funktionen und Programmier Übungen machen. 2 Lektionen
 
 ## Reflexion
 1.
