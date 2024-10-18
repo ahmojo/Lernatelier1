@@ -6,8 +6,8 @@
 2. Arrays, Funktionen und Programmier Übungen machen. 2 Lektionen
 
 ## Reflexion
-1.
-2.
+1. Habe nur an der Repetition gearbeitet.
+  
 
 ## 20.09.2024
 
