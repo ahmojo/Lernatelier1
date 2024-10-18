@@ -1,5 +1,14 @@
 # Lernatelier
 
+## 18.10.2024
+
+1. Mahara Einrag für Modul 319 anfangen
+2. Modul 319 repetieren
+
+## Reflexion
+1.
+2.
+
 ## 20.09.2024
 
 1. Stoff von Modul 319 repetieren
