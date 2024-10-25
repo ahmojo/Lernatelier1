@@ -6,7 +6,8 @@
 2. 1 Lektion Mahara Eintrag anfangen.
 
 ## Reflexion
-1.
+1. Bisschen vom Weg abgekommen aber doch noch einiges repetiert.
+2.  Nicht gemacht
 
 ## 18.10.2024
 
