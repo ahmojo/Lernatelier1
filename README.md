@@ -1,5 +1,13 @@
 # Lernatelier
 
+## 25.10.2024
+
+1. 4 Lektionen C# Aufgaben lösen / repetieren und die Prüfungs relevante Aufgaben neu lösen.
+2. 1 Lektion Mahara Eintrag anfangen.
+
+## Reflexion
+1.
+
 ## 18.10.2024
 
 1. Mahara Einrag für Modul 319 anfangen. 2 Lektionen
