@@ -1,5 +1,15 @@
 # Lernatelier
 
+## 1.11.2024
+
+1. Mahara Eintrag fertigstellen.
+
+2. Modul 319 repetieren.
+
+## Reflexion
+1. Ist fertig.
+2.  Habe mehrere Aufgaben gelöst inklusive die beim Input.
+
 ## 25.10.2024
 
 1. 4 Lektionen C# Aufgaben lösen / repetieren und die Prüfungs relevante Aufgaben neu lösen.
