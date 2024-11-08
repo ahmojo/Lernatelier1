@@ -1,6 +1,6 @@
 # Lernatelier
 
-## 7.11.2024
+## 8.11.2024
 
 1. 1 Lektion an Modul 162 arbeiten
 2. 2 Lektionen an eigenem Programmierprojekt arbeiten ( Verschiedene Minispiele und als Endprojekt ein vereinfachtes Schach Programm)
