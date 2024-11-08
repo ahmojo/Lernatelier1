@@ -7,13 +7,14 @@
 3. 1 Lektion am Programmierprojekt von Aarau arbeiten
 4. Letzte Lektion Programmierprojekt und ein bisschen Biologie lernen.
 
-2.
 
 ## Reflexion
-1.
-2.
-3.
-4.
+1. Ich habe 3 Aufgaben erledigt
+2. Ich habe ein Tik tac toe spiel gemacht
+3. ✓
+4. ✓
+
+
 ## 1.11.2024
 
 1. Mahara Eintrag fertigstellen.
