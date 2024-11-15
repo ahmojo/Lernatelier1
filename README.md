@@ -1,4 +1,21 @@
-# Lernatelier
+ # Lernatelier
+
+## 15.11.2024
+
+1. 1 Lektion an Modul 162 arbeiten (1735, 1732)
+2. 2 Lektionen an eigenem Programmierprojekt arbeiten ( Schach Programm anfangen)
+3. 1 Lektion am Programmierprojekt von Aarau arbeiten( PAP erstellen)
+4. 
+
+
+## Reflexion
+1. 
+2. 
+3. 
+
+
+
+
 
 ## 8.11.2024
 
