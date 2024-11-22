@@ -1,5 +1,19 @@
  # Lernatelier
 
+
+## 22.11.2024
+
+1. 1 Lektion an Modul 162 arbeiten (MD2 ,1733)
+2. 2 Lektionen an eigenem Programmierprojekt arbeiten ( Schach Programm fertig machen)
+3. 1 Lektion am Programmierprojekt von Aarau arbeiten(Programm auf fehler testen und korrigieren)
+4. 1 Lektion Neues Programmierprojekt anfangen (Etwas mit API's)
+## Reflexion
+1. 
+2. 
+3. 
+
+
+
 ## 15.11.2024
 
 1. 1 Lektion an Modul 162 arbeiten (1735, 1732)
