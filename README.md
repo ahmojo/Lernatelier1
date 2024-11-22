@@ -8,9 +8,12 @@
 3. 1 Lektion am Programmierprojekt von Aarau arbeiten(Programm auf fehler testen und korrigieren)
 4. 1 Lektion Neues Programmierprojekt anfangen (Etwas mit API's)
 ## Reflexion
-1. 
-2. 
-3. 
+
+1. ✓
+2. ✓
+3. ✓
+4. ✓
+
 
 
 
