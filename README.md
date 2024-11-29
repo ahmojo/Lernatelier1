@@ -1,5 +1,18 @@
  # Lernatelier
 
+## 29.11.2024
+
+1. 3 Lektionen Programmieraufgaben lösen (brilliant.org) 
+2. 1 Lektion am Programmierprojekt von Aarau arbeiten(Testfallspezifikationen fertig machen)
+3. 1 Lektion am eigenem Programmierprojekt weitermachen (Wetterprognose)
+
+## Reflexion
+
+1.
+2.
+3.
+   
+
 
 ## 22.11.2024
 
