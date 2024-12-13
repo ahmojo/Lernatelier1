@@ -8,9 +8,9 @@
 
 ## Reflexion
 
-1. 
-2. 
-3. 
+1. Ich habe mich mit dem Syntax vertraut gemacht.
+2. ✓
+3. ✓
 
 ## 29.11.2024
 
