@@ -1,5 +1,17 @@
  # Lernatelier
 
+## 13.12.2024
+
+1. 3 Lektionen am Programmierprojekt arbeiten(Datenbank)
+2. 1 Lektion Französisch lernen
+3.  1 Lektion Programmieraufgaben lösen (brilliant.org) 
+
+## Reflexion
+
+1. 
+2. 
+3. 
+
 ## 29.11.2024
 
 1. 3 Lektionen Programmieraufgaben lösen (brilliant.org) 
