@@ -4,14 +4,12 @@
 ## 20.12.2024
 
 1. 3 Lektionen am Programmierprojekt arbeiten(Datenbank aufstellen und Informationen einlesen und ausgeben lassen)
-2. 1 Lektion an M117 weiterarbeiten
-3. 1 Lektion Programmieraufgaben lösen (brilliant.org) 
+
 
 ## Reflexion
 
 1. ✓
-2. ✓
-3. ✓
+
 
 ## 13.12.2024
 
