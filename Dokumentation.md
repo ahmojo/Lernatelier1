@@ -8,4 +8,5 @@ Funktionen: Notenschnitt rechnen und anzeigen lassen; Wunschnote berechnen; Ein 
 Erweiterungen: GUI
 
 20.12.2024 Die Datenbank wurde erstellt und man kann Daten einlesen lassen und auch anzeigen lassen.
+
 10.01.2025 Das System für die Notenberechnung in das Programm einbauen und testen
