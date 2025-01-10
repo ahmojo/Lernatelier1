@@ -8,9 +8,9 @@
 
 ## Reflexion
 
-1.
-2. 
-3. 
+1. Gemacht und mit cloud verbunden
+2. ✓
+3. ✓
 
 
 ## 20.12.2024
