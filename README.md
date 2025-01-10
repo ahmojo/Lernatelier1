@@ -1,5 +1,17 @@
  # Lernatelier
 
+## 10.1.2025
+
+1. 3 Lektionen am Programmierprojekt arbeiten(Das System für die Notenberechnung in das Programm einbauen und testen)
+2. 1 Lektion 2 Abgaben bei Modul 117 machen
+3. 1 Lektion Stoff von M164 repetieren
+
+## Reflexion
+
+1.
+2. 
+3. 
+
 
 ## 20.12.2024
 
