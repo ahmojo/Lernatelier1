@@ -11,3 +11,5 @@ Erweiterungen: GUI
 
 10.01.2025 Das System für die Notenberechnung in das Programm einbauen und testen. Eventuell Integration von Onedrive um die Datenbank auf jedem Gerät benutzen zu können.
 Beides geschafft.
+
+17.01.2025 2 Datenbanken laufen auf dem Code zwar noch mit den gleichen Funktionen aber wird bald umgecoded für das BBBaden system.
