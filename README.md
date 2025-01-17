@@ -1,5 +1,18 @@
  # Lernatelier
 
+
+## 17.1.2025
+
+1. 3 Lektionen am Programmierprojekt arbeiten(Das 2 Schulen system einbauen Baden und Altekanti Unterscheidung)
+2. 1 Lektion an Handlungsziel 3 arbeiten bei M117
+3. 1 Lektion Stoff von M164 repetieren
+
+## Reflexion
+
+1. 
+2. 
+3. 
+
 ## 10.1.2025
 
 1. 3 Lektionen am Programmierprojekt arbeiten(Das System für die Notenberechnung in das Programm einbauen und testen)
