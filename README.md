@@ -9,9 +9,9 @@
 
 ## Reflexion
 
-1. 
-2. 
-3. 
+1.  Noch nur eine 2 Datenbank erstellt mit gleichen funktionen ohne unterschiede
+2.  ✓
+3.  ✓
 
 ## 10.1.2025
 
