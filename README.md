@@ -6,9 +6,9 @@
 3. 1 Lektion Stoff von M164 repetieren
 ## Reflexion
 
-1. 
-2.
-3. 
+1.  Baden system eingerichtet mit Modulen statt fächern.
+2.  ✓
+3.  ✓
 
 ## 17.1.2025
 
