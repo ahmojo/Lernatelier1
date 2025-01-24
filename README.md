@@ -2,11 +2,13 @@
 ## 24.1.2025
 
 1. 3 Lektionen am Programmierprojekt arbeiten(Der 2 Datenbank Funktionen von Baden geben heisst Modulnamen und maximal 24 Noten.)
-
+2. 1 Lektion an Handlungsziel 5 arbeiten bei M117
+3. 1 Lektion Stoff von M164 repetieren
 ## Reflexion
 
 1. 
-  
+2.
+3. 
 
 ## 17.1.2025
 
