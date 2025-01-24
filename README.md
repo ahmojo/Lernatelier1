@@ -1,5 +1,12 @@
  # Lernatelier
+## 24.1.2025
 
+1. 3 Lektionen am Programmierprojekt arbeiten(Der 2 Datenbank Funktionen von Baden geben heisst Modulnamen und maximal 24 Noten.)
+
+## Reflexion
+
+1. 
+  
 
 ## 17.1.2025
 
