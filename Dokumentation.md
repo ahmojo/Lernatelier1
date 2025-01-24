@@ -13,3 +13,4 @@ Erweiterungen: GUI
 Beides geschafft.
 
 17.01.2025 2 Datenbanken laufen auf dem Code zwar noch mit den gleichen Funktionen aber wird bald umgecoded für das BBBaden system.
+24.01.2025 Das BBBaden system läuft. Beim nächsten mal versuche ich ein GUI zu erstellen.
